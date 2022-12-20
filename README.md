@@ -8,6 +8,27 @@
     <title>Somdatta Pradhan</title>
     <link rel="stylesheet" href="css/stylesheet1.css">
     <link rel="icon" href="favicon.ico?v=2">
+    <style>
+        body {
+    background-color: rgb(238, 241, 255);
+}
+hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    height: 2px;
+    width: 10000px;
+}
+h3 {
+    color: rgb(178, 80, 104);
+}
+h4 {
+    color: rgb(178, 80, 104);
+}
+img {
+    border-radius: 50%;
+}
+    </style>
 </head>
 <body>
   <table cellspacing="20">
